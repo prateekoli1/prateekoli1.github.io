@@ -1,1 +1,0 @@
-import{q as t,j as o,a as s}from"./index.45e5bbce.js";const r="_4-uNQ",a={repo:r};function l(){const e=t.getQueryData("repo");return o("div",{className:a.repo,children:s("h1",{style:{color:"white"},children:["Repo ",e?.title]})})}export{l as default};
